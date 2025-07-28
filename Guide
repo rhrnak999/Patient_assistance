@@ -1,0 +1,23 @@
+필수파일 폴더에서 보유하지 않은 py파일을  basic아래에 추가
+
+총 7개 py(기능 5개, gui 1개, 3d_coord 1개) 
+------------------------------------------------
+setup.py에 
+
+            "s3 = rokey.basic.staking_ver3:main",
+            "cup = rokey.basic.cup1:main",
+            "pb31 = rokey.basic.playback31:main",
+            "tc2 = rokey.basic.teach2:main",
+            "open_fin = rokey.basic.open_fin:main",
+            "mp = rokey.basic.move_people:main",
+                        
+를 추가
+--------------------------------------------
+이미지 경로, 터미널 명령어 경로 수정
+--------------------------------------------
+워크스페이스에 FinalBaseMesh_obj.ply 를 추가
+
+
+
+
+
